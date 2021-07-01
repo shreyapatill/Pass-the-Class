@@ -1,4 +1,4 @@
-# Pass-the-Class
+# App: Pass the Class
 We designed a mobile application as a personal project called Pass the Class.
 
 It can be difficult for students to keep track of their grades, as many university platforms don’t explicitly display final grades. The goal of this mobile application is to design a user-friendly platform for students to input, manage, organize and predict grades. 
